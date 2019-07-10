@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),cedric)
+ifeq ($(TARGET_DEVICE),cedric,perry)
 
 endif
