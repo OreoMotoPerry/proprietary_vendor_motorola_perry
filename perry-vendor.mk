@@ -32,10 +32,14 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/perry/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
     vendor/motorola/perry/proprietary/vendor/lib/libllvd_smore.so:system/vendor/lib/libllvd_smore.so \
     vendor/motorola/perry/proprietary/vendor/lib/libmbs.so:system/lib/libmbs.so \
-	vendor/motorola/perry/proprietary/vendor/lib/libmot_lux_standardization.so:system/vendor/lib/libmot_lux_standardization.so \
+    vendor/motorola/perry/proprietary/vendor/lib/libmot_lux_standardization.so:system/vendor/lib/libmot_lux_standardization.so \
     vendor/motorola/perry/proprietary/vendor/lib/libmotocalibration.so:system/vendor/lib/libmotocalibration.so \
     vendor/motorola/perry/proprietary/vendor/lib/libsensor1.so:system/vendor/lib/libsensor1.so \
     vendor/motorola/perry/proprietary/vendor/lib/libsensor_reg.so:system/vendor/lib/libsensor_reg.so \
     vendor/motorola/perry/proprietary/vendor/lib/libsensorhubservice_jni.so:system/vendor/lib/libsensorhubservice_jni.so \
     vendor/motorola/perry/proprietary/vendor/lib/sensor_calibrate.so:system/vendor/lib/sensor_calibrate.so \
-    vendor/motorola/perry/proprietary/vendor/lib64/libdiag_system.so:system/vendor/lib64/libdiag_system.so
+    vendor/motorola/perry/proprietary/vendor/lib64/libdiag_system.so:system/vendor/lib64/libdiag_system.so \
+    vendor/motorola/perry/proprietary/vendor/lib/libsecureui.so:system/vendor/lib/libsecureui.so \
+    vendor/motorola/perry/proprietary/vendor/lib/libspl.so:system/vendor/lib/libspl.so \
+    vendor/motorola/perry/proprietary/vendor/lib64/libsecureui.so:system/vendor/lib64/libsecureui.so \
+    vendor/motorola/perry/proprietary/vendor/lib64/libspl.so:system/vendor/lib64/libspl.so
